@@ -11,7 +11,8 @@
 ![node.js][NODEJS__BADGE]
 ![prisma][PRISMA__BADGE]
 
-- APi refente a um serviço básico, no qual existe autenticação de usuario com JWT
+- API desenvolvida com **Node.js**, **Express**, **Typescript**, **Prisma ORM** e autenticação via **JWT**.  
+O projeto utiliza PostgreSQL dentro de um container Docker.
 
 ## Prerequisitos
 - NodeJS (version 21.0.0)
